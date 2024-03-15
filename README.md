@@ -1,5 +1,5 @@
 # RCHRL
-This is a PyTorch implementation for our paper "Hierarchical Reinforcement Learning from Imperfect Demonstrations through Reachable Coverage-based Subgoal Filtering"
+This is a PyTorch implementation for our paper "Hierarchical Reinforcement Learning from Imperfect Demonstrations through Reachable Coverage-based Subgoal Filtering".
 
 # Dependencies
 * Python 3.6
@@ -8,7 +8,7 @@ This is a PyTorch implementation for our paper "Hierarchical Reinforcement Learn
 * MuJoCo
 * Metaworld
  
-The installation of Metaworld can be referred to [Metaworld](https://github.com/Farama-Foundation/Metaworld.git)
+The installation of Metaworld can be referred to [Metaworld](https://github.com/Farama-Foundation/Metaworld.git).
 
 # Training
 
