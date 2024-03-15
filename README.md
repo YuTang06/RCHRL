@@ -40,7 +40,7 @@ The installation of Metaworld can be referred to [Metaworld](https://github.com/
 
 The demonstration data used can be found in the folder `demonstrations/`, all the experiments use our own collected datasets. 
 
-## regular demonstrations
+## Regular demonstrations
 
 In the comparative experiments, we use a well-trained HRAC hierarchical framework to collect trajectories with 100% goal arrival success rate as a regular demonstration. Regular demonstrations include: 
 - `demonstrations/AntMaze_demon_subgoal_0%.csv`
@@ -50,7 +50,7 @@ In the comparative experiments, we use a well-trained HRAC hierarchical framewor
 - `demonstrations/door-close-v2_demon_subgoal_0%.csv`
 - `demonstrations/reach-v2_demon_subgoal_0%.csv`
 
-## volatile demonstrations
+## Volatile demonstrations
 
 In the ablation study, we used the trained HRAC framework to sample poorer trajectories with 60%-80% goal arrival success rates, and generated volatile demonstrations by mixing a portion of poorer trajectories, with a view to enabling them to deliver more chaotic noise. Volatile demonstrations include:
 - `demonstrations/AntMaze_demon_subgoal_7.5%.csv`
